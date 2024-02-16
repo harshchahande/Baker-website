@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ---section 1 nav --- */
+
+.s1-nav {
+  padding-top: 60px;
+  position: fixed;
+}
+
+/* ---section 2--- */
+.section2:hover .s1-nav {
+  background-color: black;
+}
+.s2-div {
+  position: relative;
+  bottom: 213px;
+  right: 10%;
+
+  text-align: start;
+}
+.s2-h1 {
+  font-size: 45 0%;
+}
+.s2-h5 {
+  font-size: 300%;
+}
+/* -----section 3--- */
+.s3-icon {
+  font-size: 60px;
+}
+.s3-div {
+  background-color: #fdf3dc;
+}
+.s3-div:hover {
+  box-shadow: 5px 5px 50px #fdf3dc;
+  background-color: white;
+  position: relative;
+  bottom: 20px;
+}
+/* ---section 4---- */
+
+.s4-div {
+  width: 300px;
+  height: 300px;
+  background-color: #f1a809;
+  border: 20px solid #fdf3dc;
+}
+.s4-img {
+  position: relative;
+  bottom: 410px;
+  border-radius: 10px;
+}
+.s4-img1 {
+  position: relative;
+  bottom: 307px;
+  left: 2%;
+  border-radius: 10px;
+}
+/* ---section 6-- */
+.s6-y:hover {
+  background-color: #f1a809;
+}
+/* ---section 7-- */
+
+.s7-p {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+/* --section 8-- */
+.s8-y:hover {
+  background-color: #f1a809;
+}
+/* ----section 9--- */
+.section9 {
+  border-radius: 10px;
+}
+.s9-h1 {
+  font-size: 40px;
+}
